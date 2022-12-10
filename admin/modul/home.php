@@ -3,7 +3,7 @@
 		<div class="d-flex align-items-left align-items-md-center flex-column flex-md-row">
 			<div>
 				<h2 class="text-white pb-2 fw-bold">Administrator</h2>
-				<h5 class="text-white op-7 mb-2">Selamat Datang, <b class="text-warning"><?= $data['nama_lengkap']; ?></b> | Aplikasi Absensi Siswa</h5>
+				<h5 class="text-white op-7 mb-2">Selamat Datang, <b class="text-warning"><?= $data['nama_lengkap']; ?></b> | Aplikasi Absensi Guru</h5>
 			</div>
 			<!-- <div class="ml-md-auto py-2 py-md-0">
 								<a href="#" class="btn btn-white btn-border btn-round mr-2">Manage</a>
@@ -26,8 +26,14 @@
 					</div>
 					<div class="card-category">
 						<center>
-							Jl. Winong - Pucakwangi Km 01 Kec. Winong Kab. Pati Kode Pos 59181
-							<br>Email : mtsnegeripati@gmail.com Telp.081222333444
+						Kampung Balapunah ds. Ciputri kec. Kaduhejo kab. Pandeglang
+							<!-- <br>Email : mtsnegeripati@gmail.com Telp.081222333444 -->
+						</center>
+					</div>
+					<div class="card-category">
+						<center>
+						<a href="https://nuruldzullammtspdg90.blogspot.com/">Profile MTS Nurul Dzullam</a>
+							<!-- <br>Email : mtsnegeripati@gmail.com Telp.081222333444 -->
 						</center>
 					</div>
 
@@ -83,11 +89,8 @@
 							</div>
 						</div>
 
-
-
-
+						
 					</div>
-
 
 
 
