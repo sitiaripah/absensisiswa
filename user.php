@@ -13,20 +13,20 @@ session_start();
     <!-- Fonts and icons -->
     <script src="assets/js/plugin/webfont/webfont.min.js"></script>
     <script>
-    WebFont.load({
-        google: {
-            "families": ["Lato:300,400,700,900"]
-        },
-        custom: {
-            "families": ["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands",
-                "simple-line-icons"
-            ],
-            urls: ['assets/css/fonts.min.css']
-        },
-        active: function() {
-            sessionStorage.fonts = true;
-        }
-    });
+        WebFont.load({
+            google: {
+                "families": ["Lato:300,400,700,900"]
+            },
+            custom: {
+                "families": ["Flaticon", "Font Awesome 5 Solid", "Font Awesome 5 Regular", "Font Awesome 5 Brands",
+                    "simple-line-icons"
+                ],
+                urls: ['assets/css/fonts.min.css']
+            },
+            active: function() {
+                sessionStorage.fonts = true;
+            }
+        });
     </script>
 
     <!-- CSS Files -->
@@ -80,8 +80,7 @@ session_start();
                                     </center>
                                 </div>
                                 <div class="card-body">
-                                    <ul class="nav nav-pills nav-secondary  nav-pills-no-bd nav-pills-icons justify-content-center"
-                                        id="pills-tab-with-icon" role="tablist">
+                                    <ul class="nav nav-pills nav-secondary  nav-pills-no-bd nav-pills-icons justify-content-center" id="pills-tab-with-icon" role="tablist">
                                         <!-- <li class="nav-item">
 											<a class="nav-link active" href="#pills-home-icon">
 												<i class="flaticon-home"></i>
@@ -123,8 +122,8 @@ session_start();
     <footer class="footer">
         <div class="container">
             <div class="copyright ml-auto">
-                &copy; <?php echo date('Y');?> Absensi Siswa MTs. Insan Kreasi (<a href="index.php">Imas Andriyani </a>
-                | 2021)
+                &copy; <?php echo date('Y'); ?> Absensi Siswa MTs. Insan Kreasi (<a href="index.php">Imas Andriyani </a>
+                | 2022)
             </div>
         </div>
     </footer>

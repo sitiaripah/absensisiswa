@@ -26,8 +26,14 @@
 					</div>
 					<div class="card-category">
 						<center>
-							Jl. Winong - Pucakwangi Km 01 Kec. Winong Kab. Pati Kode Pos 59181
-							<br>Email : mtsnegeripati@gmail.com Telp.081222333444
+							Kampung Balapunah ds. Ciputri kec. Kaduhejo kab. Pandeglang
+							<!-- <br>Email : mtsnegeripati@gmail.com Telp.081222333444 -->
+						</center>
+					</div>
+					<div class="card-category">
+						<center>
+							<a href="https://nuruldzullammtspdg90.blogspot.com/">Profile MTS Nurul Dzullam</a>
+							<!-- <br>Email : mtsnegeripati@gmail.com Telp.081222333444 -->
 						</center>
 					</div>
 

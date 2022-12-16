@@ -239,7 +239,7 @@ $data = mysqli_fetch_array($sql);
 			<footer class="footer">
 				<div class="container">
 					<div class="copyright ml-auto">
-						&copy; <?php echo date('Y'); ?> Absensi Siswa MTs Nurul Dzullam (<a href="index.php">Abid Taufiqur Rohman </a> | 2021)
+						&copy; <?php echo date('Y'); ?> Absensi Siswa MTs Nurul Dzullam (<a href="index.php">Abid Taufiqur Rohman </a> | 2022)
 					</div>
 				</div>
 			</footer>
